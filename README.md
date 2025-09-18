@@ -43,3 +43,9 @@ Example output:
 - Custom O-JRC blocks (see [O-JRC repository](https://github.com/OSU-OJRC))  
 
 ---
+
+## Acknowledgement
+
+This research is supported in part by the U.S. National Science Foundation (**NSF**) under the AI Institute for Future Edge Networks and Distributed Intelligence (**AI-EDGE**).  
+We gratefully acknowledge their support and resources that made this research possible. More details about the institute can be found at [AI-EDGE Institute](https://ai-edge.osu.edu).
+
