@@ -40,7 +40,7 @@ Example output:
 
 ## Dependencies
 - [GNU Radio](https://www.gnuradio.org/)  
-- Custom O-JRC blocks (see [O-JRC repository](https://github.com/OSU-OJRC))  
+- Custom O-JRC blocks (see [O-JRC repository](https://github.com/mmWave-MIMO-Testbed/O-JRC))  
 
 ---
 
